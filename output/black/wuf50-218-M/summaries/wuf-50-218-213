@@ -1,0 +1,14 @@
+wuf-50-218-213
+  Runs total: 30
+  Optimum: 19806
+  Success rate: 0.93
+  Satisfied count: 30
+  Satisfied rate: 1.00
+  Steps total average: 1843600.00
+  Steps since change average: 6.67
+  Steps since gain average: 208946.90
+  Temperature stop ratio: 1.00
+  Max iterations stop ratio: 0.00
+  Change stop ratio: 0.00
+  Gain stop ratio: 0.00
+  Average convergence: 209670.64

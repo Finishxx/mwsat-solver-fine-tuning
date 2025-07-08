@@ -1,0 +1,14 @@
+wruf-36-157-272
+  Runs total: 30
+  Optimum: 22649
+  Success rate: 0.90
+  Satisfied count: 30
+  Satisfied rate: 1.00
+  Steps total average: 460200.00
+  Steps since change average: 7.80
+  Steps since gain average: 80466.97
+  Temperature stop ratio: 1.00
+  Max iterations stop ratio: 0.00
+  Change stop ratio: 0.00
+  Gain stop ratio: 0.00
+  Average convergence: 80158.96

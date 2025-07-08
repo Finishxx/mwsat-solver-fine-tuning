@@ -1,0 +1,3 @@
+[submodule "sources/cooling"]
+	path = sources/cooling
+	url = git@github.com:Finishxx/mwsat-solver-cooling.git

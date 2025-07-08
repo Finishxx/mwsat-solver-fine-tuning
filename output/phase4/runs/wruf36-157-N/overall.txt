@@ -1,0 +1,15 @@
+wruf36-157-N
+  Instances overall: 3
+  Runs per instance: 5
+  Runs total: 15
+  Success rate: 1.00
+  Satisfied count: 15
+  Satisfied rate: 1.00
+  Steps total average: 1381000.00
+  Steps since change average: 401.93
+  Steps since gain average: 276897.40
+  Temperature stop ratio: 1.00
+  Max iterations stop ratio: 0.00
+  Change stop ratio: 0.00
+  Gain stop ratio: 0.00
+  Average convergence: 276897.40

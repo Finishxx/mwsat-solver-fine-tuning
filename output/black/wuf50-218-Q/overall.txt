@@ -1,0 +1,15 @@
+wuf50-218-Q
+  Instances overall: 30
+  Runs per instance: 30
+  Runs total: 900
+  Success rate: 0.75
+  Satisfied count: 890
+  Satisfied rate: 0.99
+  Steps total average: 1843600.00
+  Steps since change average: 7.43
+  Steps since gain average: 221100.93
+  Temperature stop ratio: 1.00
+  Max iterations stop ratio: 0.00
+  Change stop ratio: 0.00
+  Gain stop ratio: 0.00
+  Average convergence: 201680.75

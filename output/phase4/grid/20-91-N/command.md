@@ -1,0 +1,1 @@
+scala-cli . -- grid-search -c 0.99 -C 0.999 -P 0.001 -t 0.1 -T 15 -p 1 -e 200 -f ../../input/whiteBox/wuf20-91-N/wuf20-01.mwcnf -O 34684 -s ../../bin/main -r 5 -R "0xFF" -X success.dat -x step.dat -S 0.001 
