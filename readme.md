@@ -2,8 +2,11 @@
 
 > Made as a homework to FIT CTU's combinatorial optimization class. Scored 27/30 points.
 
-The goal of this project is to fine-tune a [MWSAT](https://en.wikipedia.org/wiki/Maximum_satisfiability_problem),
+The goal of this project is to fine-tune a [MWSAT](https://en.wikipedia.org/wiki/Maximum_satisfiability_problem) solver,
 which uses simulated annealing as an advanced heuristic.
+Feel free to see [kop-du2.pdf](kop-du2.pdf) document for additional information
+(czech only).
+
 
 ## Tech stack
 - Scala, with the help of scala-cli and libraries MainArgs, OS-Lib and nspl 
